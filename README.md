@@ -4,7 +4,7 @@ I'm a junior software engineer who has just graduated Makers Academy.
 
 You can find my CV [here](https://github.com/OscarB89/CV)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OscarB89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscarbertrand/)
+[<img src='https://user-images.githubusercontent.com/71934417/113893348-d4850580-97be-11eb-90e3-7cda211d148e.png' alt='github' height='40'>](https://github.com/OscarB89)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oscarbertrand/)
 
 - 💻 Status: Job hunting.
 
