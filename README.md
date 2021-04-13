@@ -6,7 +6,7 @@
 
 - 🇬🇧   Based in London, UK
 
-You can find my CV [here](https://github.com/OscarB89/CV)
+- You can find my CV [here](https://github.com/OscarB89/CV)
 
 ### 🤝   Connect with me 
 
